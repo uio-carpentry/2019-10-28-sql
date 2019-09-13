@@ -191,7 +191,7 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endcomment %}
 <h2 id="surveys">Surveys</h2>
 <p>Please be sure to complete this survey after the workshop.</p>
-<p><a href="https://skjema.uio.no/TODO">Post-workshop Survey</a></p>
+<p><a href="https://skjema.uio.no/124475">Post-workshop Survey</a></p>
 
 <hr/>
 

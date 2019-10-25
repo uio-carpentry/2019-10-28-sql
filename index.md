@@ -309,6 +309,9 @@ and our administrator may contact you if we need any extra information.</h4>
           Download and install DB Browser for SQLite (Standard installer for 64-bit Windows) from
           <a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl/</a>
       </li>
+      <li>
+        Run the installer. On the Shortcuts page, you might want to tick the "Desktop" and/or "Program Menu" checkboxes for "DB Browser (SQLite)". Otherwise, just go with the defaults.
+      </li>
     </ol>
 
     </div>

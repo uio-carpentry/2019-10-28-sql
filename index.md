@@ -298,9 +298,7 @@ and our administrator may contact you if we need any extra information.</h4>
 
   <p>
     SQL is a specialized programming language used with databases.  We
-    use a simple database manager called
-    <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
-    We will also use a graphical user interface called DB Browser for SQLite.
+    use a graphical user interface called DB Browser for SQLite.
   </p>
 
   <div class="row">
@@ -308,8 +306,8 @@ and our administrator may contact you if we need any extra information.</h4>
       <h4 id="sql-windows">Windows</h4>
       <ol>
       <li>
-          Download and install DB Browser for SQLite (64-bit Windows .exe) from
-          <a href="http://sqlitebrowser.org/">sqlitebrowser.org</a>
+          Download and install DB Browser for SQLite (Standard installer for 64-bit Windows) from
+          <a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl/</a>
       </li>
     </ol>
 
@@ -318,17 +316,16 @@ and our administrator may contact you if we need any extra information.</h4>
       <h4 id="sql-macosx">macOS</h4>
       <ol>
         <li>
-          Download and install DB Browser for SQLite (Mac .dmg) from
-          <a href="http://sqlitebrowser.org/">sqlitebrowser.org</a>
+          Download and install DB Browser for SQLite for macOS from
+          <a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl/</a>
         </li>
       </ol>
     </div>
     <div class="col-md-4">
       <h4 id="sql-linux">Linux</h4>
       <ol>
-        <li>Download and install DB Browser for SQLite (.tar.gz file) from
-        <a href="http://sqlitebrowser.org/">sqlitebrowser.org</a>
-        or from your package manager.</li>
+        <li>See installation instructions for various distributions at
+        <a href="https://sqlitebrowser.org/dl/">sqlitebrowser.org/dl/</a>.</li>
       </ol>
     </div>
   </div>
